@@ -1,0 +1,47 @@
+
+/* GRAPH */
+.graph-block {
+    display: flex;
+    width: 100%;
+    gap: 19px;
+}
+
+.graph-block .graph-box {
+    height: 360px;
+    background-color: var(--white);
+    border-radius: 12px;
+}
+
+.graph-block .box1 {
+    width: 100%;
+}
+
+.graph-block .box2 {
+    width: 49%;
+}
+
+/* GRAPH */
+
+/* TABLE */
+
+/* TABLE */
+.table-block {
+    display: flex;
+    width: 100%;
+    gap: 19px;
+}
+
+.table-block .table-box {
+    height: 323px;
+    background-color: var(--white);
+    border-radius: 12px;
+}
+
+.table-block .box1 {
+    width: 100%;
+}
+
+.table-block .box2 {
+    width: 49%;
+}
+/* TABLE */
